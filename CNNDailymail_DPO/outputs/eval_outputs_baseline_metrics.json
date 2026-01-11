@@ -1,0 +1,11 @@
+{
+  "model_name": "Qwen/Qwen2.5-1.5B",
+  "dataset": "cnn_dailymail:3.0.0:validation",
+  "num_samples": 500,
+  "temperature": 0.6,
+  "top_p": 0.9,
+  "repetition_penalty": 1.05,
+  "max_new_tokens": 128,
+  "entity_hallucination_rate": 0.502,
+  "number_hallucination_rate": 0.032
+}
