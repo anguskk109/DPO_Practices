@@ -47,7 +47,7 @@ This repository documents my hands-on exploration of **Direct Preference Optimiz
 | **DPO Training Loss** | — | 0.135 | ↓80% |
 | **Reward Accuracy** | — | 100% | — |
 
-> 💡 **Note**: Despite perfect reward accuracy and low loss, **faithfulness did not improve**.
+>  **Note**: Despite perfect reward accuracy and low loss, **faithfulness did not improve**.
 
 ### 🔍 Key Insight
 ✅ **Training pipeline is flawless**  
