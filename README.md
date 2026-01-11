@@ -9,7 +9,7 @@ This repository documents my hands-on exploration of **Direct Preference Optimiz
 ### 🔧 Project Details
 
 #### **Dataset**
-- **Source**: [`cnn_dailymail`](https://huggingface.co/datasets/cnn_dailymail) v3.0.0  
+- **Source**: [`cnn_dailymail`](https://huggingface.co/datasets/abisee/cnn_dailymail) v3.0.0  
   - DPO pairs: 500 samples from `train` split  
   - Evaluation: 500 samples from `validation` split
 - **Preference Pairs**:
